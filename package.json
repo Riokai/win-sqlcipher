@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "shelljs": "^0.7.4",
-    "sqlite3": "git+https://github.com/fritx/node-sqlite3.git#openssl-root"
+    "sqlite3": "git+https://github.com/Riokai/node-sqlite3.git#openssl-root"
   },
   "devDependencies": {
     "electron-rebuild": "^1.5.11"
